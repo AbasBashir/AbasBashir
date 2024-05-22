@@ -57,10 +57,10 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbasBashir&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbasBashir&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6" alt="Top Languages" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbasBashir&theme=radical&hide_border=false" alt="GitHub Streak">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbasBashir&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6" alt="Top Languages" >
+  <img src="https://github-readme-stats.vercel.app/api?username=AbasBashir&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
 </div>
 
 ## 🏆 GitHub Trophies
