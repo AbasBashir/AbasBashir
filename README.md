@@ -65,5 +65,5 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbasBashir&theme=onedark&row=1&column=5)](https://github.com/AbasBashir/github-profile-trophy)
+  <img src="https://github-profile-trophy.vercel.app/?username=AbasBashir&theme=onedark&row=1&column=5" alt="GitHub Trophy">
 </div>
