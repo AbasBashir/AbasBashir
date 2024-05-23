@@ -1,5 +1,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/fha1cv4Le2lVRXXJsc/giphy.gif" alt="Fun GIF" width="200" height="200">
+  <div align="center">
+     <a href="https://linkedin.com/in/Abas-Bashir" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge" style="max-width: 100%;">
+    </a>
+     <a href="mailto:mrabasbashir@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail Badge" style="max-width: 100%;">
+    </a>
+  </div>
 </div> 
 
 # <div align="center">Hi there👋, I'm Abas!</div>  
@@ -9,11 +17,6 @@
 🔭 Engaged in an exciting project that I'm eager to unveil – stay tuned for updates!<br>
 🌱 Exploring <strong>Python</strong>.<br>
 💬 Open for conversations on anything <strong>MERN stack</strong> and its related technologies – I'm all ears!
-
-
-## 📫Reach Out:
-[![LinkedIn](https://img.shields.io/badge/Abas%20Bashir-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abas-Bashir)
-[![Email](https://img.shields.io/badge/Email-mrabasbashir@gmail.com-green)](mailto:mrabasbashir@gmail.com)
 
 ## 💻 Tech Stack:
 <div align="center" style="display: flex; gap: 100px;">
@@ -50,7 +53,7 @@
 </div>
 
 
-## 📊 GitHub Stats:
+## 📈 Stats Overview:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbasBashir&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6" alt="Top Languages" ><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=AbasBashir&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
