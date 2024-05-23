@@ -1,7 +1,7 @@
 <div align="center" >
   <img src="https://media.giphy.com/media/fha1cv4Le2lVRXXJsc/giphy.gif" alt="Fun GIF" width="200" height="200">
   <div align="center" style="width: 100%; width: 300px;>
-     <a href="https://linkedin.com/in/Abas-Bashir" target="_blank" rel="noopener noreferrer">
+     <a href="https://www.linkedin.com/in/abas-bashir/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge" style="max-width: 100%;">
     </a>
     
