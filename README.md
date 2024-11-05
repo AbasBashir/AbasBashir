@@ -11,7 +11,7 @@
 
 ## 🚀 Current Endeavors:
 🔭 Engaged in an exciting project that I'm eager to unveil – stay tuned for updates!<br>
-🌱 Exploring <strong>Python</strong>.<br>
+🌱 Exploring <strong>C#</strong>.<br>
 💬 Open for conversations on anything <strong>MERN stack</strong> and its related technologies – I'm all ears!
 
 ## 💻 Tech Stack:
